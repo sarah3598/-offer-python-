@@ -21,7 +21,7 @@ def find(array, target):
             return True
     return False
 
-print find(a,test1)
-print find(a,test2)
-print find(a,test3)
-print find(a,test4)
+print(find(a,test1))
+# print find(a,test2)
+# print find(a,test3)
+# print find(a,test4)
