@@ -3,4 +3,4 @@
 def replace(s):
     return s.replace(' ', '20%')
 test="sj kk we"
-print replace(test)
+print(replace(test))
